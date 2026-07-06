@@ -1,0 +1,25 @@
+# 数据文件（太大，不传 GitHub，请从下方链接下载）
+data/
+
+# 论文生成产物
+paper/
+
+# 提交文件夹
+金融三班_*/
+
+# Python
+__pycache__/
+*.pyc
+
+# 临时文件
+~$*
+*.tmp
+_test*.txt
+_check.py
+
+# 图片输出（notebook 运行后会重新生成）
+figures/
+
+# 附件（课程提供，非项目源码）
+附件*.docx
+附件*.doc
